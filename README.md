@@ -14,8 +14,8 @@ El objetivo principal del análisis es entender el comportamiento de compra de l
 
 ```plaintext
 Alura-Store/
-├── AluraStoreLatam.ipynb          # Notebook principal con el análisis completo
-├── AluraStoreLatam (1).ipynb      # Versión alternativa/exportada del notebook
+├── AluraStoreLatam.ipynb          # Versión alternativa/exportada del notebook 
+├── AluraStoreLatam (1).ipynb      # Notebook principal con el análisis completo
 └── README.md                      # Descripción del proyecto (este archivo)
 
 ---
